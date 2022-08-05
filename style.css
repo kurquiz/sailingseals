@@ -1,9 +1,9 @@
 h1 {
-  color: blue;
-  background-image: "rainbow.jpeg";
+  color: #122e12;
+  background-image: url("rainbow.jpeg");
 }
 
 #pic1 {
-  height: 100px;
-  width: 100px;
+  height: 500px;
+  width: 500px;
 }
