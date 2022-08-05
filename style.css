@@ -1,6 +1,8 @@
 h1 {
   color: #122e12;
   background-image: url("rainbow.jpeg");
+  padding: 250px;
+  margin: 0 auto;
 }
 
 #pic1 {
